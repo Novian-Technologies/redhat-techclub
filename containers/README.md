@@ -6,7 +6,7 @@
 * Any text editor. Visual Studio Code will be used during the workshop
 
 ## Workshop
-We will learn to build and start deno image.
+We will learn to build and start [deno](https://deno.land/) image.
 ### Basic deno image
 1. A basic deno image will be built. [Dockerfile.basic](Dockerfile.basic)
 
