@@ -2,7 +2,7 @@
 <img alt="RedHat TechClub" src="files/logo.png" height="400"/>
 
 ## Links
-[Meetup group](https://www.meetup.com/vilnius-innovation-meetup-group/)
+All the latest events and discussions can be found in the RedHat TechClub [Meetup group](https://www.meetup.com/vilnius-innovation-meetup-group/) 
 
 ## Target audience
 Everyone is welcome to participate in any topic, but we will highlight the topics with:
