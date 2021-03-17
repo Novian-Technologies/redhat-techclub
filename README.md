@@ -4,4 +4,4 @@
 ## Links
 [Meetup group](https://www.meetup.com/vilnius-innovation-meetup-group/)
 ## Topics
-* [Containers](containers/README.md)
+* [Containers](containers/)
