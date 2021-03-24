@@ -1,5 +1,5 @@
-# RedHat TechClub - Containers
-<img alt="RedHat TechClub" src="../files/containers.jpeg" height="300"/>
+# Red Hat TechClub - Containers
+<img alt="Red Hat TechClub" src="../files/containers.jpeg" height="300"/>
 
 ## Requirements
 * Environemtn with podman installed [Install guide](https://podman.io/getting-started/installation )
