@@ -9,7 +9,8 @@ console.log(
 );
 
 for await (const request of server) {
-  let bodyContent = "Red Hat TechClub server is running!\n\nYour user-agent is:\n\n";
+  let bodyContent = "Red Hat TechClub server is running!\n\n";
+  bodyContent += "Your user-agent is:\n\n";
   bodyContent += request.headers.get("user-agent") || "Unknown";
 
   request.respond({ status: 200, body: bodyContent });
